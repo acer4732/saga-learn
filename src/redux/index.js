@@ -8,11 +8,9 @@ const sagaMiddleware = createSagaMiddleware();
 
 const store = createStore(
     reducer,
-    window.__REDUX_DEVTOOLS_EXTENSION_COMPOSE__(
-        applyMiddleware(
-            routerMiddleware(history),
-            sagaMiddleware
-        )
+    applyMiddleware(
+        routerMiddleware(history),
+        sagaMiddleware
     )
 );
 

@@ -1,6 +1,8 @@
-https://www.examtopics.com/
-https://chrome.google.com/webstore/detail/alerabatcom-kupony-i-cash/dacdinoicboceafielngnmjjplncljhj?adgroupid=116159695803&keyword&gclid=EAIaIQobChMI_rSm7672_AIVpVzlCh1ozgPGEAEYASAAEgKCd_D_BwE
-https://www.youtube.com/watch?v=OsTWNBnzjJk&list=RDCMUCOxqQhtg574p8kE4Te41PGg
+- https://www.examtopics.com/
+- https://chrome.google.com/webstore/detail/alerabatcom-kupony-i-cash/dacdinoicboceafielngnmjjplncljhj?adgroupid=116159695803&keyword&gclid=EAIaIQobChMI_rSm7672_AIVpVzlCh1ozgPGEAEYASAAEgKCd_D_BwE
+- https://www.youtube.com/watch?v=OsTWNBnzjJk&list=RDCMUCOxqQhtg574p8kE4Te41PGg
+- https://brewyourtech.com/how-to-host-your-react-app-on-github-pages/
+- https://dev.to/codewithbernard/how-to-run-react-js-build-locally-4nd7
 
 # Getting Started with Create React App
 
