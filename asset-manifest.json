@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/saga-learn/static/css/main.fda73c0b.css",
+    "main.js": "/saga-learn/static/js/main.b0a7cf90.js",
+    "index.html": "/saga-learn/index.html",
+    "main.fda73c0b.css.map": "/saga-learn/static/css/main.fda73c0b.css.map",
+    "main.b0a7cf90.js.map": "/saga-learn/static/js/main.b0a7cf90.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fda73c0b.css",
+    "static/js/main.b0a7cf90.js"
+  ]
+}
