@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/saga-learn/static/css/main.fda73c0b.css",
-    "main.js": "/saga-learn/static/js/main.b0a7cf90.js",
-    "index.html": "/saga-learn/index.html",
-    "main.fda73c0b.css.map": "/saga-learn/static/css/main.fda73c0b.css.map",
-    "main.b0a7cf90.js.map": "/saga-learn/static/js/main.b0a7cf90.js.map"
+    "main.css": "/static/css/main.fda73c0b.css",
+    "main.js": "/static/js/main.b0a7cf90.js",
+    "index.html": "/index.html",
+    "main.fda73c0b.css.map": "/static/css/main.fda73c0b.css.map",
+    "main.b0a7cf90.js.map": "/static/js/main.b0a7cf90.js.map"
   },
   "entrypoints": [
     "static/css/main.fda73c0b.css",
