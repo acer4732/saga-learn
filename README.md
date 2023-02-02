@@ -1,3 +1,7 @@
+https://www.examtopics.com/
+https://chrome.google.com/webstore/detail/alerabatcom-kupony-i-cash/dacdinoicboceafielngnmjjplncljhj?adgroupid=116159695803&keyword&gclid=EAIaIQobChMI_rSm7672_AIVpVzlCh1ozgPGEAEYASAAEgKCd_D_BwE
+https://www.youtube.com/watch?v=OsTWNBnzjJk&list=RDCMUCOxqQhtg574p8kE4Te41PGg
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
